@@ -16,4 +16,5 @@ I am about 6 months into being a PM at time of writing this and a few key things
 
 
 ## [Product Management Checklist](https://github.com/rickygraz/Product-Management-Intro/blob/master/Pchecklist.md)
+In here, you will find many things you need in order to stay on top of your products
 
