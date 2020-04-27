@@ -15,5 +15,5 @@ I am about 6 months into being a PM at time of writing this and a few key things
 - You can not control everything and delegate what you can because you will need that time when you least expect it
 
 
-[Product Management Checklist](https://github.com/rickygraz/Product-Management-Intro/blob/master/Pchecklist.md)
+## [Product Management Checklist](https://github.com/rickygraz/Product-Management-Intro/blob/master/Pchecklist.md)
 
