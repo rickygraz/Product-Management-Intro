@@ -10,5 +10,5 @@ There are many different hats you can wear as a product manager and there are ma
 
 
 
-[Product Must Haves](rickygraz/Pchecklist.md)
+[Product Must Haves](https://github.com/rickygraz/Product-Management-Intro/blob/master/Pchecklist.md)
 
