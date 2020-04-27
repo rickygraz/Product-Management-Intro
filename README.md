@@ -13,6 +13,7 @@ I am about 6 months into being a PM at time of writing this and a few key things
 - Make sure your boss is aware of any pitfalls in the near future
 - Keep track of everything you can and document everything for reference
 - You can not control everything and delegate what you can because you will need that time when you least expect it
+- you must influence others to want to work for you, you can not be best friends with everyone but become friends with those who can help you most
 
 
 ## [Product Management Checklist](https://github.com/rickygraz/Product-Management-Intro/blob/master/Pchecklist.md)
